@@ -1,5 +1,9 @@
 # The Best Advice I Ever Got
 
+[![make.fun · u-pangg7-the-best-advice-i-ever-got-358cefb0](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/hupo3661/u-pangg7-the-best-advice-i-ever-got-358cefb0/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/hupo3661/u-pangg7-the-best-advice-i-ever-got-358cefb0/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+
 Entry for the make.fun competition
 [u-pangg7-the-best-advice-i-ever-got-358cefb0](https://make.fun/c/u-pangg7-the-best-advice-i-ever-got-358cefb0):
 one sentence, up to 200 characters, on the best advice I ever received.
